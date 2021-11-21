@@ -4,6 +4,18 @@ A React hook to determine if text is overflowing in an element showing an ellips
 
 ## Installation
 
+Using `npm`:
+
+```sh
+npm install react-hook-text-overflow
+```
+
+Using `yarn`:
+
+```sh
+yarn add react-hook-text-overflow
+```
+
 ## Usage
 
 ## Contributions
