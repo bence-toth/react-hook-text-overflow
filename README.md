@@ -36,7 +36,7 @@ Accordingly, the library exports three things:
 
 - The `useEllipsisVisibleWrapper` which is to be used in the component where the second element is rendered. It returns an array of two items, the width of the wrapper element, and a callback ref which is to be set as the `ref` property of the wrapper element.
 
-- The `EllipsisVisibleWrapperWidthContext` context which is to be used where `useEllipsisVisibleWrapper` is used (or one of its descendent components if you don't mind passing around the wrapper width value). Its provider must be rendered and its value must be set to the wrapper node's width returned by the `useEllipsisVisibleWrapper` hook.
+- The `EllipsisVisibleWrapperWidthContext` context which is to be used where `useEllipsisVisibleWrapper` is used (or one of its descendent components if you don’t mind passing around the wrapper width value). Its provider must be rendered and its value must be set to the wrapper node’s width returned by the `useEllipsisVisibleWrapper` hook.
 
 - The `useEllipsisVisible` hook which returns an array of two items, a boolean which indicates whether the text is overflowing (and ellipsis is rendered), and a callback ref which is to be set as the `ref` property of the element in which the text potentially overflows.
 
