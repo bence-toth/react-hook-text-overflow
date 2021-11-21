@@ -10,6 +10,6 @@ A React hook to access data from the [Geolocation API](https://developer.mozilla
 
 Contributions are welcome. File bug reports, create pull requests, feel free to reach out at tothab@gmail.com.
 
-## Licence
+## License
 
-MIT
+[MIT](./LICENSE)
