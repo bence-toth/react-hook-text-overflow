@@ -1,6 +1,6 @@
 # react-hook-text-overflow :potable_water:
 
-A React hook to access data from the [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API).
+A React hook to determine if text is overflowing in an element showing an ellipsis.
 
 ## Installation
 

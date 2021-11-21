@@ -1,7 +1,7 @@
 {
   "name": "react-hook-text-overflow",
   "version": "1.0.0",
-  "description": "React hook for determining if text is overflowing in an element",
+  "description": "A React hook to determine if text is overflowing in an element showing an ellipsis",
   "keywords": [
     "react",
     "hook",
