@@ -16,6 +16,12 @@ Using `yarn`:
 yarn add react-hook-text-overflow
 ```
 
+## Live demo
+
+For an example implementation [take a look at this repo](https://github.com/bence-toth/ellipsis-visible-experiment).
+
+To see it in action, [check out the live demo](https://bence-toth.github.io/ellipsis-visible-experiment/).
+
 ## Usage
 
 `react-hook-text-overflow` consist of three parts:
